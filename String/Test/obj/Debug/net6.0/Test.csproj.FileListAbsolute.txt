@@ -1,0 +1,36 @@
+E:\первый курс\second semak\основы программирования\sorts\strSprt\String\Test\bin\Debug\net6.0\Test.exe
+E:\первый курс\second semak\основы программирования\sorts\strSprt\String\Test\bin\Debug\net6.0\Test.deps.json
+E:\первый курс\second semak\основы программирования\sorts\strSprt\String\Test\bin\Debug\net6.0\Test.runtimeconfig.json
+E:\первый курс\second semak\основы программирования\sorts\strSprt\String\Test\bin\Debug\net6.0\Test.dll
+E:\первый курс\second semak\основы программирования\sorts\strSprt\String\Test\bin\Debug\net6.0\Test.pdb
+E:\первый курс\second semak\основы программирования\sorts\strSprt\String\Test\bin\Debug\net6.0\String.dll
+E:\первый курс\second semak\основы программирования\sorts\strSprt\String\Test\bin\Debug\net6.0\String.pdb
+E:\первый курс\second semak\основы программирования\sorts\strSprt\String\Test\obj\Debug\net6.0\Test.csproj.AssemblyReference.cache
+E:\первый курс\second semak\основы программирования\sorts\strSprt\String\Test\obj\Debug\net6.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+E:\первый курс\second semak\основы программирования\sorts\strSprt\String\Test\obj\Debug\net6.0\Test.AssemblyInfoInputs.cache
+E:\первый курс\second semak\основы программирования\sorts\strSprt\String\Test\obj\Debug\net6.0\Test.AssemblyInfo.cs
+E:\первый курс\second semak\основы программирования\sorts\strSprt\String\Test\obj\Debug\net6.0\Test.csproj.CoreCompileInputs.cache
+E:\первый курс\second semak\основы программирования\sorts\strSprt\String\Test\obj\Debug\net6.0\Test.csproj.CopyComplete
+E:\первый курс\second semak\основы программирования\sorts\strSprt\String\Test\obj\Debug\net6.0\Test.dll
+E:\первый курс\second semak\основы программирования\sorts\strSprt\String\Test\obj\Debug\net6.0\refint\Test.dll
+E:\первый курс\second semak\основы программирования\sorts\strSprt\String\Test\obj\Debug\net6.0\Test.pdb
+E:\первый курс\second semak\основы программирования\sorts\strSprt\String\Test\obj\Debug\net6.0\Test.genruntimeconfig.cache
+E:\первый курс\second semak\основы программирования\sorts\strSprt\String\Test\obj\Debug\net6.0\ref\Test.dll
+C:\Users\Анна\Desktop\String\Test\bin\Debug\net6.0\Test.exe
+C:\Users\Анна\Desktop\String\Test\bin\Debug\net6.0\Test.deps.json
+C:\Users\Анна\Desktop\String\Test\bin\Debug\net6.0\Test.runtimeconfig.json
+C:\Users\Анна\Desktop\String\Test\bin\Debug\net6.0\Test.dll
+C:\Users\Анна\Desktop\String\Test\bin\Debug\net6.0\Test.pdb
+C:\Users\Анна\Desktop\String\Test\bin\Debug\net6.0\String.dll
+C:\Users\Анна\Desktop\String\Test\bin\Debug\net6.0\String.pdb
+C:\Users\Анна\Desktop\String\Test\obj\Debug\net6.0\Test.csproj.AssemblyReference.cache
+C:\Users\Анна\Desktop\String\Test\obj\Debug\net6.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анна\Desktop\String\Test\obj\Debug\net6.0\Test.AssemblyInfoInputs.cache
+C:\Users\Анна\Desktop\String\Test\obj\Debug\net6.0\Test.AssemblyInfo.cs
+C:\Users\Анна\Desktop\String\Test\obj\Debug\net6.0\Test.csproj.CoreCompileInputs.cache
+C:\Users\Анна\Desktop\String\Test\obj\Debug\net6.0\Test.csproj.CopyComplete
+C:\Users\Анна\Desktop\String\Test\obj\Debug\net6.0\Test.dll
+C:\Users\Анна\Desktop\String\Test\obj\Debug\net6.0\refint\Test.dll
+C:\Users\Анна\Desktop\String\Test\obj\Debug\net6.0\Test.pdb
+C:\Users\Анна\Desktop\String\Test\obj\Debug\net6.0\Test.genruntimeconfig.cache
+C:\Users\Анна\Desktop\String\Test\obj\Debug\net6.0\ref\Test.dll

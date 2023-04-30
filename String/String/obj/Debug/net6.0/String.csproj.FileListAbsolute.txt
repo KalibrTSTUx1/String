@@ -1,0 +1,24 @@
+E:\первый курс\second semak\основы программирования\sorts\strSprt\String\String\bin\Debug\net6.0\String.deps.json
+E:\первый курс\second semak\основы программирования\sorts\strSprt\String\String\bin\Debug\net6.0\String.dll
+E:\первый курс\second semak\основы программирования\sorts\strSprt\String\String\bin\Debug\net6.0\String.pdb
+E:\первый курс\second semak\основы программирования\sorts\strSprt\String\String\obj\Debug\net6.0\String.csproj.AssemblyReference.cache
+E:\первый курс\second semak\основы программирования\sorts\strSprt\String\String\obj\Debug\net6.0\String.GeneratedMSBuildEditorConfig.editorconfig
+E:\первый курс\second semak\основы программирования\sorts\strSprt\String\String\obj\Debug\net6.0\String.AssemblyInfoInputs.cache
+E:\первый курс\second semak\основы программирования\sorts\strSprt\String\String\obj\Debug\net6.0\String.AssemblyInfo.cs
+E:\первый курс\second semak\основы программирования\sorts\strSprt\String\String\obj\Debug\net6.0\String.csproj.CoreCompileInputs.cache
+E:\первый курс\second semak\основы программирования\sorts\strSprt\String\String\obj\Debug\net6.0\String.dll
+E:\первый курс\second semak\основы программирования\sorts\strSprt\String\String\obj\Debug\net6.0\refint\String.dll
+E:\первый курс\second semak\основы программирования\sorts\strSprt\String\String\obj\Debug\net6.0\String.pdb
+E:\первый курс\second semak\основы программирования\sorts\strSprt\String\String\obj\Debug\net6.0\ref\String.dll
+C:\Users\Анна\Desktop\String\String\bin\Debug\net6.0\String.deps.json
+C:\Users\Анна\Desktop\String\String\bin\Debug\net6.0\String.dll
+C:\Users\Анна\Desktop\String\String\bin\Debug\net6.0\String.pdb
+C:\Users\Анна\Desktop\String\String\obj\Debug\net6.0\String.csproj.AssemblyReference.cache
+C:\Users\Анна\Desktop\String\String\obj\Debug\net6.0\String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анна\Desktop\String\String\obj\Debug\net6.0\String.AssemblyInfoInputs.cache
+C:\Users\Анна\Desktop\String\String\obj\Debug\net6.0\String.AssemblyInfo.cs
+C:\Users\Анна\Desktop\String\String\obj\Debug\net6.0\String.csproj.CoreCompileInputs.cache
+C:\Users\Анна\Desktop\String\String\obj\Debug\net6.0\String.dll
+C:\Users\Анна\Desktop\String\String\obj\Debug\net6.0\refint\String.dll
+C:\Users\Анна\Desktop\String\String\obj\Debug\net6.0\String.pdb
+C:\Users\Анна\Desktop\String\String\obj\Debug\net6.0\ref\String.dll
